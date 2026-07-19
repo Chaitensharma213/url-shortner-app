@@ -42,3 +42,4 @@ ChatGPT was used only for README documentation.
 ## Author
 
 Chaiten Sharma
+khurasiyachaiten213@gmail.com
