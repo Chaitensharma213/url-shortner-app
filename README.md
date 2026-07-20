@@ -35,7 +35,7 @@ A URL Shortener application developed using Laravel 12 as part of a Backend Deve
 
 ## AI Usage
 
-ChatGPT was used only for README documentation.
+ChatGPT was used only for README documentation and implement Bootstrap 5 for UI.
 
 
 
